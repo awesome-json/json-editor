@@ -1,16 +1,16 @@
-# Smart JSON Editor: IDE-like Editor to Prettify / Minify / Verify JSON
-[Smart JSON Editor](https://json-5.com) is a user-friendly JSON editor that facilitates the editing of both JSON and JSON5. However, Smart JSON has more flexible syntax by allowing omitting quotes around keys, multi-line commenting, and trailing commas in arrays and objects. This makes JSON editing process more efficient and productive.
+# Awesome JSON Editor: IDE-like Editor to Prettify / Minify / Verify JSON
+[Awesome JSON Editor](https://json-5.com) is a user-friendly JSON editor that facilitates the editing of both JSON and JSON5. However, Awesome JSON has more flexible syntax by allowing omitting quotes around keys, multi-line commenting, and trailing commas in arrays and objects. This makes JSON editing process more efficient and productive.
 
-Moreover, [Smart JSON Editor](https://json-5.com) is a text editor similar to VS code, allowing users to work on multiple tabbed files simultaneously, rename tabs, drag and drop tabs, and use other [VS code editing techniques](https://code.visualstudio.com/docs/editor/codebasics) such as selecting all occurrences of a selected word. It helps you keep work organized and increases productivity.
+Moreover, [Awesome JSON Editor](https://json-5.com) is a text editor similar to VS code, allowing users to work on multiple tabbed files simultaneously, rename tabs, drag and drop tabs, and use other [VS code editing techniques](https://code.visualstudio.com/docs/editor/codebasics) such as selecting all occurrences of a selected word. It helps you keep work organized and increases productivity.
 
 Key features:
 - Error-tolerant JSON editing experience.
 - Key bindings and shortcuts are compatible with Visual Studio Code.
 - High performance parseing and formartting JSON Data.
 
-**Use Smart JSON for free now: https://json-5.com**
+**Use Awesome JSON for free now: https://json-5.com**
 
-![smart-json](https://user-images.githubusercontent.com/3455798/226092084-5977ae57-b643-473a-a0bd-b937084b07f7.gif)
+![Awesome-json](https://user-images.githubusercontent.com/3455798/226092084-5977ae57-b643-473a-a0bd-b937084b07f7.gif)
 
 ## 1. Error-tolerant JSON editing experience.
 

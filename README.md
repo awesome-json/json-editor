@@ -8,7 +8,7 @@ Key features:
 - Key bindings and shortcuts are compatible with Visual Studio Code.
 - High performance parseing and formartting JSON Data.
 
-**Use Smart JSON Edtior for free now: https://json-5.com**
+## Use Smart JSON Edtior for free now: https://json-5.com
 
 ![Smart-json](https://user-images.githubusercontent.com/3455798/226092084-5977ae57-b643-473a-a0bd-b937084b07f7.gif)
 

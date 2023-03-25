@@ -6,7 +6,7 @@ Moreover, [Smart JSON Editor](https://json-5.com) is a text editor similar to VS
 Key features:
 - Error-tolerant JSON editing experience.
 - Key bindings and shortcuts are compatible with Visual Studio Code.
-- High performance parseing and formartting JSON Data.
+- High performance parsing and formartting JSON Data.
 
 ## Use Smart JSON Edtior for free now: https://json-5.com
 

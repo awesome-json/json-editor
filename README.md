@@ -103,5 +103,27 @@ Key bindings are fully compatible with [Visual Studio Code](https://code.visuals
 <img style="width:400px" src="https://user-images.githubusercontent.com/3455798/226117055-9ae01abf-a72a-4e25-beec-7e7346883eb2.png" />
 
 
-## 3. Data Privacy
+### 3. Integration with Alfred
+As a software developer, you can easily open your JSON data in the editor via Alfred's customizable web searches. This integration allows you to format your JSON data quickly and efficiently.
+
+You can use it by typing "json" followed by your JSON data in Alfred. For example:
+![Alfred json](https://user-images.githubusercontent.com/3455798/229289708-0398eb8f-4017-455a-a8bf-950256c32feb.png)
+
+This will open the Smart JSON editor in your browser with the provided data already loaded.
+
+![Alfred json](https://user-images.githubusercontent.com/3455798/229290034-62e3d6dc-e35d-4094-88b9-15ea44323ffe.png)
+
+To [add Alfred custom searches](https://www.alfredapp.com/help/features/web-search/custom-searches), go to Alfred's preferences and navigate to Features > Web Search. Click on "Add Custom Search" and fill in the following information:
+```
+Search URL: https://json-5.com/#inputText={query}
+Title: json format
+Keyword: json
+```
+![Alfred json](https://user-images.githubusercontent.com/3455798/229290109-f0b361e7-6d34-4f08-a434-92e97580fb09.png)
+
+
+The integration with Alfred's web searches is a simple and effective way to streamline your JSON formatting process.
+
+
+## 4. Data Privacy
 We can assure you that your input data in [json-5.com](json-5.com) is stored securely in your browser's [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) only, which is not shared with any third-party, ensuring complete privacy and confidentiality.

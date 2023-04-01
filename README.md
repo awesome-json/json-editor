@@ -106,23 +106,18 @@ Key bindings are fully compatible with [Visual Studio Code](https://code.visuals
 ### 3. Integration with Alfred
 As a software developer, you can easily open your JSON data in the editor via Alfred's customizable web searches. This integration allows you to format your JSON data quickly and efficiently.
 
-You can use it by typing "json" followed by your JSON data in Alfred. For example:
+You can use it by typing "json" followed by your JSON data in [Alfred](https://www.alfredapp.com). For example:
 ![Alfred json](https://user-images.githubusercontent.com/3455798/229289708-0398eb8f-4017-455a-a8bf-950256c32feb.png)
 
 This will open the Smart JSON editor in your browser with the provided data already loaded.
 
 ![Alfred json](https://user-images.githubusercontent.com/3455798/229290034-62e3d6dc-e35d-4094-88b9-15ea44323ffe.png)
 
-To [add Alfred custom searches](https://www.alfredapp.com/help/features/web-search/custom-searches), go to Alfred's preferences and navigate to Features > Web Search. Click on "Add Custom Search" and fill in the following information:
-```
-Search URL: https://json-5.com/#inputText={query}
-Title: json format
-Keyword: json
-```
-![Alfred json](https://user-images.githubusercontent.com/3455798/229290109-f0b361e7-6d34-4f08-a434-92e97580fb09.png)
+To add this JSON editor [custom search](https://www.alfredapp.com/help/features/web-search/custom-searches) to [Alfred](https://www.alfredapp.com), simply enter the following command in your browser's URL bar. A pop-up will appear asking if you want to import the custom search.
 
-
-The integration with Alfred's web searches is a simple and effective way to streamline your JSON formatting process.
+```
+alfred://customsearch/json%20format/json/utf8/nospace/https://json-5.com/#inputText=%7Bquery%7D
+```
 
 
 ## 4. Data Privacy

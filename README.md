@@ -7,6 +7,7 @@ Key features:
 - Error-tolerant JSON editing experience.
 - Key bindings and shortcuts are compatible with Visual Studio Code.
 - High performance parsing and formartting JSON Data.
+- Integration with Alfred to boost productivity.
 
 ## Use Smart JSON Edtior for free now: https://json-5.com
 

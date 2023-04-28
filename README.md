@@ -4,7 +4,7 @@
 Moreover, [Smart JSON Editor](https://json-5.com) is a text editor similar to VS code, allowing users to work on multiple tabbed files simultaneously, rename tabs, drag and drop tabs, and use other [VS code editing techniques](https://code.visualstudio.com/docs/editor/codebasics) such as selecting all occurrences of a selected word. It helps you keep work organized and increases productivity.
 
 Key features:
-- Error-tolerant JSON editing experience.
+- Error-free JSON editing experience.
 - Key bindings and shortcuts are compatible with Visual Studio Code.
 - High performance parsing and formartting JSON Data.
 - Integration with Alfred to boost productivity.

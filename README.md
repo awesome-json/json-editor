@@ -1,7 +1,7 @@
-# Smart JSON Editor: IDE-like Editor to Prettify / Minify / Verify JSON
-[Smart JSON Editor](https://json-5.com) is a user-friendly JSON editor that facilitates the editing of both JSON and JSON5. However, Smart JSON has more flexible syntax by allowing omitting quotes around keys, multi-line commenting, and trailing commas in arrays and objects. This makes JSON editing process more efficient and productive.
+# JSON5 Editor: IDE-like Editor to Prettify / Minify / Verify JSON
+[JSON5 Editor](https://json-5.com) is a user-friendly JSON editor that facilitates the editing of both JSON and JSON5. However, JSON5 has more flexible syntax by allowing omitting quotes around keys, multi-line commenting, and trailing commas in arrays and objects. This makes JSON editing process more efficient and productive.
 
-Moreover, [Smart JSON Editor](https://json-5.com) is a text editor similar to VS code, allowing users to work on multiple tabbed files simultaneously, rename tabs, drag and drop tabs, and use other [VS code editing techniques](https://code.visualstudio.com/docs/editor/codebasics) such as selecting all occurrences of a selected word. It helps you keep work organized and increases productivity.
+Moreover, [JSON5 Editor](https://json-5.com) is a text editor similar to VS code, allowing users to work on multiple tabbed files simultaneously, rename tabs, drag and drop tabs, and use other [VS code editing techniques](https://code.visualstudio.com/docs/editor/codebasics) such as selecting all occurrences of a selected word. It helps you keep work organized and increases productivity.
 
 Key features:
 - Error-free JSON editing experience.
@@ -9,9 +9,9 @@ Key features:
 - High performance parsing and formartting JSON Data.
 - Integration with Alfred to boost productivity.
 
-## Use Smart JSON Edtior for free now: https://json-5.com
+## Use JSON5 Edtior for free now: https://json-5.com
 
-![Smart-json](https://user-images.githubusercontent.com/3455798/226092084-5977ae57-b643-473a-a0bd-b937084b07f7.gif)
+![JSON-5](https://user-images.githubusercontent.com/3455798/226092084-5977ae57-b643-473a-a0bd-b937084b07f7.gif)
 
 ## 1. Error-tolerant JSON editing experience.
 
@@ -72,24 +72,6 @@ Key features:
 ```
 ![image](https://user-images.githubusercontent.com/3455798/226093494-66983740-9a00-4041-bdc1-613732e89253.png)
 
-
-### 1.5 Number
-- Numbers could be hexadecimal.
-- Numbers could have a leading or trailing decimal point.
-Numbers could be [IEEE 754](https://en.wikipedia.org/wiki/IEEE_754) positive infinity, negative infinity, and NaN.</li>
-- Numbers may begin with an explicit plus sign.
-
-
-```js
-{
-  "key1": 0xdecaf, // hexadecimal
-  "key2": .8675309, // leading decimal point
-  "key3": 8675309., // trailing decimal point
-  "key4": +1, // positive sign
-}
-```
-![image](https://user-images.githubusercontent.com/3455798/226093838-6323c3b6-bd20-4363-a2cb-bd210d3803a2.png)
-
 ## 2. Editor shortcuts
 Key bindings are fully compatible with [Visual Studio Code](https://code.visualstudio.com/docs/editor/codebasics). Here are some useful tips.
 
@@ -110,7 +92,7 @@ As a software developer, you can easily open your JSON data in the editor via Al
 You can use it by typing "json" followed by your JSON data in [Alfred](https://www.alfredapp.com). For example:
 ![Alfred json](https://user-images.githubusercontent.com/3455798/229289708-0398eb8f-4017-455a-a8bf-950256c32feb.png)
 
-This will open the Smart JSON editor in your browser with the provided data already loaded.
+This will open the JSON5 editor in your browser with the provided data already loaded.
 
 ![Alfred json](https://user-images.githubusercontent.com/3455798/229290034-62e3d6dc-e35d-4094-88b9-15ea44323ffe.png)
 

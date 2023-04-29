@@ -13,7 +13,7 @@ Key features:
 
 ![JSON-5](https://user-images.githubusercontent.com/3455798/226092084-5977ae57-b643-473a-a0bd-b937084b07f7.gif)
 
-## 1. Error-tolerant JSON editing experience.
+## 1. Error-free JSON editing experience.
 
 ### 1.1 Comma
 - Arrays having a single trailing comma are allowed.
